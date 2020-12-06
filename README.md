@@ -14,7 +14,7 @@ I'm currently learning observability in distributed system and DBMS.
 
 我习惯在一段时间 (每周或每两周) 内对一个话题做密集的调研，并输出成[技术博客](https://github.com/ZhengHe-MD/blog)。
 
-I'm used to exhausively doing research on an interesting topic, for every one or two weeks, and put what I've learned into [blogs](https://github.com/ZhengHe-MD/blog). and I'm sorry currently there are only Chinese versions.
+I'm used to exhausively doing research on an interesting topic, for every one or two weeks, and put what I've learned into [blogs](https://github.com/ZhengHe-MD/blog). I'm sorry currently there are only Chinese versions.
 
 
 <!--
