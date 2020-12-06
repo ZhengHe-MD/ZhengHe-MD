@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-我是郑鹤，一名软件工程师，目前就职于伴鱼，曾就职于马达数据、爱奇艺。
+我是郑鹤，一名软件工程师，目前就职于伴鱼 ([公司博客](https://tech.ipalfish.com/blog/))，曾就职于马达数据、爱奇艺。
 
 I'm He Zheng, or Hebert Zheng, a software engineer at Palfish, previously at Madadata and iQiYi.
 
@@ -12,10 +12,9 @@ I'm currently working on enterprise-level APM, service monitoring, alertmanager,
 
 I'm currently learning observability in distributed system and DBMS.
 
-我习惯在一段时间 (每周或每两周) 内对一个话题做密集的调研，并输出成[技术博客](https://github.com/ZhengHe-MD/blog)
+我习惯在一段时间 (每周或每两周) 内对一个话题做密集的调研，并输出成[技术博客](https://github.com/ZhengHe-MD/blog)。
 
 I'm used to exhausively doing research on an interesting topic, for every one or two weeks, and put what I've learned into [blogs](https://github.com/ZhengHe-MD/blog). and I'm sorry currently there are only Chinese versions.
-
 
 
 <!--
