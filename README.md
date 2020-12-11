@@ -10,7 +10,7 @@ I'm currently working on enterprise-level APM, service monitoring, alertmanager,
 
 目前学习的重心是分布式系统可观测性、数据库系统等。
 
-I'm currently learning observability in distributed system and DBMS.
+I'm currently learning distributed system observability and DBMS.
 
 我习惯在一段时间 (每周或每两周) 内对一个话题做密集的调研，并输出成[技术博客](https://zhenghe-md.github.io/blog/)。
 
