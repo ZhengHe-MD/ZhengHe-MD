@@ -16,6 +16,10 @@ I'm currently learning distributed system observability and DBMS.
 
 I'm used to exhausively doing research on an interesting topic, for every one or two weeks, and put what I've learned into [blogs](https://zhenghe-md.github.io/blog/). I'm sorry currently there are only Chinese versions.
 
+我也很喜欢听各种优质的计算机公开课，并记录[学习笔记](https://zhenghe.gitbook.io/open-courses/)。
+
+I love watching various kinds of online open courses, and takes some [notes](https://zhenghe.gitbook.io/open-courses/).
+
 
 <!--
 **ZhengHe-MD/ZhengHe-MD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
