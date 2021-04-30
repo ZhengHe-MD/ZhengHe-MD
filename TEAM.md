@@ -20,6 +20,20 @@
 <img src="./t-shirt-1.png" alt="t-shirt-1" width="480px">
 <img src="./t-shirt-2.png" alt="t-shirt-2" width="480px">
 
+我们也希望更多人能看到团队的努力，因此从去年开始，我们开始在 InfoQ 上发表文章，内容包含团队日常的学习调研、项目调研以及实践落地上遇到的挑战和我们的解决方案：
+
+* [从 0 到 1 搭建技术中台之发布系统实践：集泳道、灰度、四端和多区域于一体的设计与权衡](https://xie.infoq.cn/article/598063f249b1a07c20d38cb5f)
+* [缓存与存储的一致性策略：从 CPU 到分布式系统](https://xie.infoq.cn/article/fa1f0f9ac1cfee7845f7b29fe)
+* [Facebook 缓存技术演进：从单集群到多区域](https://xie.infoq.cn/article/fa26e97012185dfd07efa20f6)
+* [分布式锁：效率与正确性的衡权](https://xie.infoq.cn/article/2c9689c434d0168150bcf8a3a)
+* [从 0 到 1 搭建技术中台之报警平台实践：匹配器演进](https://www.infoq.cn/article/HzCDvxc0dc5F5clozoeT)
+* [Prometheus 存储层的演进](https://xie.infoq.cn/article/9071f261190acbdf73dfcf4d7)
+* [重新思考日志：业务系统竟然是一个大数据库](https://www.infoq.cn/article/QLrFHTKoKwDtGMSF0ISy)
+* [NewSQL 究竟 "New" 在哪里](https://www.infoq.cn/article/TZ0olc4ewPVZrPxSZTHU)
+* [Apache Arrow：一种适合异构大数据系统的内存列存数据格式标准](https://www.infoq.cn/article/1m21N9LzEK5Qu2jySUue)
+* [调用链追踪系统在伴鱼：理论篇](https://www.infoq.cn/article/NVdIDI5lZBfmaIHWNVxS)
+* [调用链追踪系统在伴鱼：实践篇](https://www.infoq.cn/article/pkY4SZfhBviFXrcRIQCr)
+
 ## 加入我们
 
 我们对有兴趣加入的你，有这样的期待：
