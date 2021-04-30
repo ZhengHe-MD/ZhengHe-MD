@@ -6,7 +6,7 @@ I'm He Zheng, or Hebert Zheng, a software engineer at Palfish, previously at Mad
 
 目前工作的重心是公司级别的工程效率、可观测性、部分业务通用型相关系统的设计、研发、运维和推广，[这里](./TEAM.md)是我们团队的简介。
 
-I'm currently working on enterprise-level observability platform, CICD, cost-analysis platform, open platform and office automation systems.
+I'm currently working on designing, developing, operating and evangelizing enterprise-level engineering efficiency, observability, general-purpose product related systems.
 
 目前学习的重心是分布式系统可观测性、数据库系统等。
 
