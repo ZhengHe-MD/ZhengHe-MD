@@ -4,7 +4,7 @@
 
 I'm He Zheng, or Hebert Zheng, a software engineer at Palfish, previously at Madadata and iQiYi.
 
-目前工作的重心是公司级别的可观测性平台 (监控、报警、日志分析、调用链追踪等)、发布系统、成本分析平台、开放平台、OA 等等，我们组在[招聘](./HIRING.md)。
+目前工作的重心是公司级别的工程效率、可观测性、智能应用及部分业务通用型相关系统的设计、研发、运维和推广，[这里](./TEAM.md)是我们团队的简介。
 
 I'm currently working on enterprise-level observability platform, CICD, cost-analysis platform, open platform and office automation systems.
 
