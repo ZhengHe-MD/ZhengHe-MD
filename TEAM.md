@@ -33,6 +33,7 @@
 * [Apache Arrow：一种适合异构大数据系统的内存列存数据格式标准](https://www.infoq.cn/article/1m21N9LzEK5Qu2jySUue)
 * [调用链追踪系统在伴鱼：理论篇](https://www.infoq.cn/article/NVdIDI5lZBfmaIHWNVxS)
 * [调用链追踪系统在伴鱼：实践篇](https://www.infoq.cn/article/pkY4SZfhBviFXrcRIQCr)
+* [代码搜索引擎：基础篇](https://www.infoq.cn/article/X7LOtayeOD4FuqBzWxgX)
 
 ## 加入我们
 
