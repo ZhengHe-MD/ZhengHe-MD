@@ -18,7 +18,7 @@ I'm used to exhausively doing research on an interesting topic at a time, and pu
 
 我也很喜欢听各种优质的计算机公开课，并记录[学习笔记](https://zhenghe.gitbook.io/open-courses/)，最近正在搬迁这些笔记到 [这里](https://zhenghe-md.github.io/opencourse-notes/)
 
-I love watching various kinds of online open courses, and takes some [notes](https://zhenghe.gitbook.io/open-courses/), and I'm moving the notes to their new [home](https://zhenghe-md.github.io/opencourse-notes/)
+I love watching various kinds of online open courses, and takes some [notes](https://zhenghe.gitbook.io/open-courses/), and I'm moving the notes to their new [home](https://zhenghe-md.github.io/opencourse-notes/).
 
 <!--
 **ZhengHe-MD/ZhengHe-MD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
