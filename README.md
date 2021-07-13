@@ -12,9 +12,9 @@ I'm currently working on designing, developing, operating and evangelizing enter
 
 I'm currently learning distributed system observability and DBMS.
 
-我习惯在一段时间 (每周或每两周) 内对一个话题做密集的调研，并输出成[技术博客](https://zhenghe-md.github.io/blog/)。
+我习惯在一段时间内对一个话题做密集的调研，并输出成[技术博客](https://zhenghe-md.github.io/blog/)。
 
-I'm used to exhausively doing research on an interesting topic, for every one or two weeks, and put what I've learned into [blogs](https://zhenghe-md.github.io/blog/). I'm sorry currently there are only Chinese versions.
+I'm used to exhausively doing research on an interesting topic at a time, and put what I've learned into [blogs](https://zhenghe-md.github.io/blog/). I'm sorry currently there are only Chinese versions.
 
 我也很喜欢听各种优质的计算机公开课，并记录[学习笔记](https://zhenghe.gitbook.io/open-courses/)，最近正在搬迁这些笔记到 [这里](https://zhenghe-md.github.io/opencourse-notes/)
 
