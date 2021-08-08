@@ -2,7 +2,7 @@
 
 我是郑鹤，一名软件工程师，目前就职于伴鱼 ([公司博客](https://tech.ipalfish.com/blog/))，曾就职于马达数据、爱奇艺。
 
-I'm He Zheng, or Hebert Zheng, a software engineer at Palfish, previously at Madadata and iQiYi.
+I'm He Zheng, or Henry Zheng, a software engineer at Palfish, previously at Madadata and iQiYi.
 
 目前工作的重心是公司级别的工程效率、可观测性、部分业务通用型相关系统的设计、研发、运维和推广，[这里](./TEAM.md)是我们团队的简介。
 
