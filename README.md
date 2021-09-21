@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-我的[博客](https://zhenghe-md.github.io/blog/)、学习笔记 ([新](https://zhenghe-md.github.io/opencourse-notes/)|[旧](https://zhenghe.gitbook.io/open-courses/)
+我的[博客](https://zhenghe-md.github.io/blog/)、学习笔记 ([新](https://zhenghe-md.github.io/opencourse-notes/)|[旧](https://zhenghe.gitbook.io/open-courses/))
 
 <!--
 **ZhengHe-MD/ZhengHe-MD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
