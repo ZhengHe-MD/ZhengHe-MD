@@ -1,7 +1,7 @@
-### Hi there 👋
+我是一名软件工程师：
 
-* [博客](https://zhenghe-md.github.io/blog/)
-* [播客](https://zhenghe-md.github.io/nerds-docs/docs/plan/solution/promotion/podcasts/)
+* 偶尔写 ✍️ [博客](https://zhenghe-md.github.io/blog/)
+* 也做做 📻 [播客](https://zhenghe-md.github.io/nerds-docs/docs/plan/solution/promotion/podcasts/)
 
 <!--
 **ZhengHe-MD/ZhengHe-MD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
