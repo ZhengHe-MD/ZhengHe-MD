@@ -4,6 +4,8 @@
 * 也做做 📻 [播客](https://zhenghe-md.github.io/nerds-docs/docs/plan/solution/promotion/podcasts/)
 * 每天要 🏃🏻‍♀️ [跑步](https://learn-the-hard-way.cn/equator)
 
+![](https://komarev.com/ghpvc/?username=ZhengHe-MD&color=green)
+
 <!--
 **ZhengHe-MD/ZhengHe-MD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
