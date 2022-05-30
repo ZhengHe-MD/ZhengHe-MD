@@ -13,8 +13,8 @@
 * [缓存策略](https://zhenghe-md.github.io/blog/2020/02/19/Cache-Policies/)
 
 *技术分享*：
-* [InfoQ | 微服务时代的调用链追踪系统设计](https://www.infoq.cn/video/Kf4DaZ1C862juiMS84J8)
-* [让机器说话](https://zhenghe-md.github.io/machine-talk-slides/1)
+* [微服务时代的调用链追踪系统设计@InfoQ](https://www.infoq.cn/video/Kf4DaZ1C862juiMS84J8)
+* [让机器说话@伴鱼](https://zhenghe-md.github.io/machine-talk-slides/1)
 
 <!--
 **ZhengHe-MD/ZhengHe-MD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
