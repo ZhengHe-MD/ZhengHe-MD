@@ -4,8 +4,8 @@
 | 🏃🏻‍♀️ [跑步计划](https://learn-the-hard-way.cn/equator) | 📝 [听课笔记](https://zhenghe.gitbook.io/open-courses/) | 📻 [播客](https://zhenghe-md.github.io/nerds-docs/docs/plan/solution/promotion/podcasts/)
 
 *调研/实践*：
-* [代码搜索引擎](https://zhenghe-md.github.io/blog/2021/05/09/search-engine-for-codes-fundamentals/)
 * [调用链追踪的维度](https://zhenghe-md.github.io/blog/2020/12/20/design-dimensions-of-tracing-systems/) | [调用链追踪在伴鱼：实践篇](https://zhenghe-md.github.io/blog/2021/03/04/implementing-tail-based-sampling/)
+* [代码搜索引擎](https://zhenghe-md.github.io/blog/2021/05/09/search-engine-for-codes-fundamentals/)
 * [缓存策略](https://zhenghe-md.github.io/blog/2020/02/19/Cache-Policies/)
 
 *技术分享*：
