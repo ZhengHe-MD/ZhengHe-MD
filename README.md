@@ -3,10 +3,6 @@
 📔 [博客](https://zhenghe-md.github.io/blog/)
 | 🏃🏻‍♀️ [跑步计划](https://learn-the-hard-way.cn/equator) | 📝 [听课笔记](https://zhenghe.gitbook.io/open-courses/) | 📻 [播客](https://zhenghe-md.github.io/nerds-docs/docs/plan/solution/promotion/podcasts/)
 
-*文章精选*：
-* [从头开始实现 RNN](https://zhenghe-md.github.io/blog/2022/02/20/rnn/)
-* [复利的隐喻](https://zhenghe-md.github.io/blog/2022/02/26/compound-interest-in-life/)
-
 *调研/实践*：
 * [代码搜索引擎](https://zhenghe-md.github.io/blog/2021/05/09/search-engine-for-codes-fundamentals/)
 * [调用链追踪的维度](https://zhenghe-md.github.io/blog/2020/12/20/design-dimensions-of-tracing-systems/) | [调用链追踪在伴鱼：实践篇](https://zhenghe-md.github.io/blog/2021/03/04/implementing-tail-based-sampling/)
@@ -15,6 +11,10 @@
 *技术分享*：
 * [微服务时代的调用链追踪系统设计@InfoQ](https://www.infoq.cn/video/Kf4DaZ1C862juiMS84J8)
 * [让机器说话@伴鱼](https://zhenghe-md.github.io/machine-talk-slides/1)
+
+*其它随笔*：
+* [从头开始实现 RNN](https://zhenghe-md.github.io/blog/2022/02/20/rnn/)
+* [复利的隐喻](https://zhenghe-md.github.io/blog/2022/02/26/compound-interest-in-life/)
 
 <!--
 **ZhengHe-MD/ZhengHe-MD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
