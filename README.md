@@ -1,8 +1,7 @@
 我是一名软件工程师：
 
 📔 [博客](https://zhenghe-md.github.io/blog/)
-| 🏃🏻‍♀️ [跑步计划](https://learn-the-hard-way.cn/equator) | 📝 [听课笔记](https://zhenghe.gitbook.io/open-courses/) | 📻 [播客](https://zhenghe-md.github.io/nerds-docs/docs/plan/solution/promotion/podcasts/)
-
+| 🏃🏻‍♀️ [跑步计划](https://learn-the-hard-way.cn/equator) | 📝 [听课笔记](https://zhenghe.gitbook.io/open-courses/)
 *调研/实践*：
 * [中小型 Go 语言项目应该如何布局？](https://zhenghe-md.github.io/blog/2022/04/13/go-project-layout/)
 * [代码搜索引擎](https://zhenghe-md.github.io/blog/2021/05/09/search-engine-for-codes-fundamentals/)
