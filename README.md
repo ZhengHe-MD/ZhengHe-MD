@@ -4,7 +4,7 @@
 | 🏃🏻‍♀️ [跑步计划](https://equator.vercel.app)
 
 *调研/实践*：
-* [中小型 Go 语言项目应该如何布局？](https://zhenghe-md.github.io/blog/2022/04/13/go-project-layout/)
+* [如何在 Golang 项目中处理好错误](https://zhenghe-md.github.io/blog/2020/10/05/Go-Error-Handling-Research/)
 * [代码搜索引擎](https://zhenghe-md.github.io/blog/2021/05/09/search-engine-for-codes-fundamentals/)
 * [调用链追踪的维度](https://zhenghe-md.github.io/blog/2020/12/20/design-dimensions-of-tracing-systems/) | [调用链追踪在伴鱼：实践篇](https://zhenghe-md.github.io/blog/2021/03/04/implementing-tail-based-sampling/)
 
