@@ -1,7 +1,7 @@
 我是一名软件工程师：
 
 📔 [博客](https://zhenghe-md.github.io/blog/)
-| 🏃🏻‍♀️ [跑步计划](https://equator.vercel.app)
+| 🏃🏻‍♀️ [赤道计划](https://equator.vercel.app), [running page](https://zhenghe-md.github.io/running_page/)
 
 *调研/实践*：
 * [如何在 Golang 项目中处理好错误](https://zhenghe-md.github.io/blog/2020/10/05/Go-Error-Handling-Research/)
