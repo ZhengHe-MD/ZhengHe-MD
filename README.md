@@ -1,4 +1,4 @@
-我是一名软件工程师：
+Hi, 欢迎来到我的 GitHub 主页
 
 📔 [博客](https://zhenghe-md.github.io/blog/)
 | 🏃🏻‍♀️ [赤道计划](https://equator.vercel.app) & [running page](https://zhenghe-md.github.io/running_page/)
