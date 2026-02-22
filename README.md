@@ -3,6 +3,9 @@ Hi, 欢迎来到我的 GitHub 主页
 📔 [博客](https://zhenghe-md.github.io/blog/)
 | 🏃🏻‍♀️ [赤道计划](https://equator.vercel.app) & [running page](https://zhenghe-md.github.io/running_page/)
 
+*AgentSkills*:
+* [engoo-daily-news-writer](./skills/engoo-daily-news-writer): 将任意网页内容转化成 Engoo daily-news 课程
+
 *调研/实践*：
 * [如何在 Golang 项目中处理好错误](https://zhenghe-md.github.io/blog/2020/10/05/Go-Error-Handling-Research/)
 * [代码搜索引擎](https://zhenghe-md.github.io/blog/2021/05/09/search-engine-for-codes-fundamentals/)

@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{TITLE}}</title>
+    <style>
+        :root {
+            --primary-color: #2563eb;
+            --text-color: #1f2937;
+            --light-gray: #f3f4f6;
+            --border-color: #e5e7eb;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: #fff;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 2px solid var(--primary-color);
+        }
+
+        h1 {
+            font-size: 2rem;
+            color: var(--text-color);
+            margin-bottom: 10px;
+        }
+
+        .meta {
+            color: #6b7280;
+            font-size: 0.9rem;
+        }
+
+        .difficulty {
+            display: inline-block;
+            background-color: var(--primary-color);
+            color: white;
+            padding: 4px 12px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            font-weight: 500;
+            margin-bottom: 8px;
+        }
+
+        .source {
+            margin-top: 5px;
+        }
+
+        .source a {
+            color: var(--primary-color);
+            text-decoration: none;
+        }
+
+        .source a:hover {
+            text-decoration: underline;
+        }
+
+        section {
+            margin-bottom: 40px;
+        }
+
+        h2 {
+            font-size: 1.5rem;
+            color: var(--primary-color);
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        /* Vocabulary Section */
+        .vocabulary-item {
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: var(--light-gray);
+            border-radius: 8px;
+        }
+
+        .vocabulary-word {
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: var(--primary-color);
+            margin-bottom: 4px;
+        }
+
+        .part-of-speech {
+            font-weight: 400;
+            color: #6b7280;
+            font-size: 0.9rem;
+        }
+
+        .vocabulary-pronunciation {
+            font-size: 0.9rem;
+            color: #6b7280;
+            margin-bottom: 8px;
+            font-family: 'Lucida Sans Unicode', 'Arial Unicode MS', sans-serif;
+        }
+
+        .vocabulary-definition {
+            margin-bottom: 8px;
+        }
+
+        .vocabulary-example {
+            font-style: italic;
+            color: #4b5563;
+        }
+
+        .vocabulary-example::before {
+            content: "Example: ";
+            font-style: normal;
+            font-weight: 500;
+        }
+
+        /* Article Section */
+        .article-content p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+
+        /* Fill in the Blanks */
+        .fill-blanks-intro {
+            margin-bottom: 15px;
+            color: #4b5563;
+        }
+
+        .word-pool {
+            margin-top: 15px;
+            padding: 10px;
+            background-color: var(--light-gray);
+            border-radius: 4px;
+        }
+
+        /* Questions Section */
+        .questions-list {
+            list-style: none;
+            counter-reset: question-counter;
+        }
+
+        .questions-list li {
+            margin-bottom: 12px;
+            padding-left: 30px;
+            position: relative;
+            counter-increment: question-counter;
+        }
+
+        .questions-list li::before {
+            content: counter(question-counter) ".";
+            position: absolute;
+            left: 0;
+            font-weight: 600;
+            color: var(--primary-color);
+        }
+
+        /* Would You Rather */
+        .wyr-intro {
+            margin-bottom: 15px;
+            color: #4b5563;
+        }
+
+        .wyr-options {
+            font-weight: 500;
+            color: var(--primary-color);
+        }
+
+        /* Discussion Section */
+        .discussion-questions {
+            list-style: none;
+            counter-reset: discussion-counter;
+        }
+
+        .discussion-questions li {
+            margin-bottom: 15px;
+            padding-left: 30px;
+            position: relative;
+            counter-increment: discussion-counter;
+        }
+
+        .discussion-questions li::before {
+            content: counter(discussion-counter) ".";
+            position: absolute;
+            left: 0;
+            font-weight: 600;
+            color: var(--primary-color);
+        }
+
+        /* Further Discussion Section */
+        .further-discussion {
+            list-style: none;
+        }
+
+        .further-discussion li {
+            margin-bottom: 15px;
+            padding-left: 25px;
+            position: relative;
+        }
+
+        .further-discussion li::before {
+            content: "•";
+            position: absolute;
+            left: 5px;
+            color: var(--primary-color);
+            font-size: 1.2rem;
+        }
+
+        footer {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid var(--border-color);
+            text-align: center;
+            color: #6b7280;
+            font-size: 0.9rem;
+        }
+
+        @media print {
+            body {
+                max-width: 100%;
+            }
+
+            section {
+                page-break-inside: avoid;
+            }
+
+            .difficulty {
+                -webkit-print-color-adjust: exact;
+                print-color-adjust: exact;
+            }
+        }
+
+        @media (max-width: 600px) {
+            body {
+                padding: 15px;
+            }
+
+            h1 {
+                font-size: 1.5rem;
+            }
+
+            h2 {
+                font-size: 1.25rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>{{TITLE}}</h1>
+        <div class="meta">
+            <span class="difficulty">{{DIFFICULTY}}</span>
+            <div class="date">{{DATE}}</div>
+            <div class="source">Source: <a href="{{SOURCE_URL}}" target="_blank">{{SOURCE_NAME}}</a> — {{SOURCE_AUTHOR}}</div>
+        </div>
+    </header>
+
+    <section id="vocabulary">
+        <h2>Vocabulary</h2>
+        {{VOCABULARY_ITEMS}}
+    </section>
+
+    {{FILL_IN_BLANKS_SECTION}}
+
+    <section id="article">
+        <h2>Article</h2>
+        <div class="article-content">
+            {{ARTICLE_CONTENT}}
+        </div>
+    </section>
+
+    {{QUESTIONS_SECTION}}
+
+    {{WOULD_YOU_RATHER_SECTION}}
+
+    <section id="discussion">
+        <h2>Discussion</h2>
+        <ol class="discussion-questions">
+            {{DISCUSSION_QUESTIONS}}
+        </ol>
+    </section>
+
+    {{FURTHER_DISCUSSION_SECTION}}
+
+    <footer>
+        <p>Generated with Engoo Daily News Writer</p>
+    </footer>
+</body>
+</html>

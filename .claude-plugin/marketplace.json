@@ -1,0 +1,26 @@
+{
+  "name": "zhenghe-personal-skills",
+  "owner": {
+    "name": "ZhengHe",
+    "url": "https://github.com/ZhengHe-MD"
+  },
+  "metadata": {
+    "description": "Personal skill collection for AI coding assistants",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "esl-tools",
+      "description": "ESL lesson creation tools for generating Engoo Daily News format materials",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        {
+          "name": "engoo-daily-news-writer",
+          "description": "Transform web articles into Engoo Daily News format for ESL students at levels 4-9. Helps find articles interactively or converts provided URLs into lesson materials.",
+          "path": "skills/engoo-daily-news-writer"
+        }
+      ]
+    }
+  ]
+}
