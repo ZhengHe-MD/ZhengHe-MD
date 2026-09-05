@@ -4,7 +4,7 @@ Hi, 欢迎来到我的 GitHub 主页
 | 🏃🏻‍♀️ [赤道计划](https://equator.vercel.app) & [running page](https://zhenghe-md.github.io/running_page/)
 
 *AgentSkills*:
-* [engoo-daily-news-writer](./skills/engoo-daily-news-writer): 将任意网页内容转化成 Engoo daily-news 课程
+* [skills](https://github.com/ZhengHe-MD/skills): 常用 skills 合集，含 engoo-daily-news-writer（将任意网页内容转化成 Engoo daily-news 课程）
 
 *技术分享*：
 * [一次实验、两种错误、三个直觉@伴鱼](https://zhenghe-md.github.io/blog/2022/07/04/A-B-Testing/)
