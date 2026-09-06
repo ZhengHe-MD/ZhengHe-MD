@@ -4,7 +4,9 @@ Hi, 欢迎来到我的 GitHub 主页
 | 🏃🏻‍♀️ [赤道计划](https://equator.vercel.app) & [running page](https://zhenghe-md.github.io/running_page/)
 
 *AgentSkills*:
-* [engoo-daily-news-writer](./skills/engoo-daily-news-writer): 将任意网页内容转化成 Engoo daily-news 课程
+* [too-ai](https://github.com/ZhengHe-MD/skills/tree/main/skills/too-ai): 去掉文字里的 AI 味儿
+* [badminton-video-editing](https://github.com/ZhengHe-MD/skills/tree/main/skills/badminton-video-editing): 剪出训练全记录或精华片段
+* [engoo-daily-news-writer](https://github.com/ZhengHe-MD/skills/tree/main/skills/engoo-daily-news-writer): 将任意网页内容转化成 Engoo daily-news 课程
 
 *技术分享*：
 * [一次实验、两种错误、三个直觉@伴鱼](https://zhenghe-md.github.io/blog/2022/07/04/A-B-Testing/)
